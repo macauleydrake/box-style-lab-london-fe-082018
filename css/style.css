@@ -57,4 +57,5 @@ h4 {
 
 img {
   border: 1px solid;
+  box-sizing:border-box;
 }
